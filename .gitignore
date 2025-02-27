@@ -1,0 +1,23 @@
+# 編譯輸出
+/bin/
+/build/
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE 設定檔（Eclipse, IntelliJ, VS Code）
+### Eclipse ###
+*.project
+*.classpath
+*.settings/
+
+### Maven ###
+/.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+release.properties
+target/
